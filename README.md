@@ -12,12 +12,3 @@ Sporting a modern interface and advanced features that integrate AI, Revolution 
   <img src="images/demo_1.png" width="600" />
   <img src="images/demo_2.png" width="600" />
 </p>
-
-
-## Creator
-
-Revolution Macro is a solo project created by Liam. Your support is what drives me to fulfill the vision for Revolution every single day! Have a question? Feel free to contact me on Discord, my tag is `liammuwu`
-
-## Download
-
-Join the [**Discord Server**](https://discord.gg/HDJk6aEyt4) to become a Beta Tester and access guides and priority support! Check out the [Releases](https://github.com/nosyliam/revolution-macro/releases) to download the latest version of Revolution.
